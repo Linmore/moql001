@@ -1,0 +1,2 @@
+mysql£ºrootÃÜÂë£º1234
+oracle¿ÚÁî£º123
